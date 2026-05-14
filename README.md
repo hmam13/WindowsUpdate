@@ -19,7 +19,7 @@ Esta opción es ideal si ya tienes Python en tu equipo y quieres ver cómo funci
 
 ¿Cómo se hace?: Necesitas abrir tu ventana de comandos (la terminal) con permisos de administrador y luego escribir el nombre del archivo .py.
 
-#💻 ¿Qué sucederá en tu computador al ejecutarlo?
+💻 ¿Qué sucederá en tu computador al ejecutarlo?
 -------------------------------------
 Cuando inicies el script, esto es lo que verás:
 
