@@ -9,12 +9,7 @@ El script utiliza una herramienta oficial de Microsoft llamada Winget (Windows P
 -------------------------------------
 Tienes dos caminos muy fáciles para poner a funcionar esta herramienta. ¡Ojo! En ambos casos es obligatorio darle "permisos de administrador" para que el script tenga la "llave maestra" y pueda instalar las cosas por ti.
 
-Opción A: Usando el ejecutable (.exe) 🟢
-Esta es la opción más rápida, ideal si quieres que todo funcione de inmediato.
-
-¿Cómo se hace?: Busca el archivo que termina en .exe, dale clic derecho con el ratón y elige la opción que dice "Ejecutar como administrador".
-
-Opción B: Copiando el archivo Python (.py) 🐍
+Copiando el archivo Python (.py) 🐍
 Esta opción es ideal si ya tienes Python en tu equipo y quieres ver cómo funcionan las instrucciones por dentro.
 
 ¿Cómo se hace?: Necesitas abrir tu ventana de comandos (la terminal) con permisos de administrador y luego escribir el nombre del archivo .py.
